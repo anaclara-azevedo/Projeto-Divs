@@ -1,3 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&display=swap');
+
+h1 { color: black;
+    font-family:"Bitter" , serif;
+    text-align: center;
+
+}
+
+
 div {
     /* display: inline-block */
     display: inline-block;
@@ -31,3 +41,9 @@ div {
 .hov:hover{
     background-color: aqua;
    }
+
+footer {
+   color: black;
+   font-family:"Bitter", serif;
+}
+
